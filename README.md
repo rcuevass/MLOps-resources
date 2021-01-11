@@ -6,6 +6,7 @@ Repo to store interesting resources on MLOps
 - Introducing MLOps
 - Primer on data drift and drift collection
 - Explaining bias in your data
+- Development workflows for data scientists
 
 ## Papers 
 
