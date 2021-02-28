@@ -6,3 +6,4 @@
 - [AWS whitepapers](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
 - [AWS science blog](https://www.amazon.science/blog)
 - [AWS ML university](https://aws.amazon.com/machine-learning/mlu/)
+- [AWS ML solutions lab](https://aws.amazon.com/ml-solutions-lab/)
