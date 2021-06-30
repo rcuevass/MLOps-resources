@@ -9,3 +9,5 @@
 - [**Machine Learning Monitoring, Part 4: How To Track Data Quality and Data Integrity**](https://evidentlyai.com/machine-learning-monitoring-how-to-track-data-quality-and-integrity)
 
 - [**Domain-Specific Machine Learning Monitoring**](https://medium.com/mlops-community/domain-specific-machine-learning-monitoring-88bc0dd8a212)
+
+- [**Feature store**](https://www.featurestore.org/)
