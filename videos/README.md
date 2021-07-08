@@ -15,3 +15,5 @@
 - [Debugging ML in Production feat. Shreya Shankar | Stanford MLSys Seminar Episode 12](https://www.youtube.com/watch?v=aGzu7nI8IRE)
 
 - [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
+
+- [FEAST - Feature Store video demo](https://www.youtube.com/watch?v=ZeJdr0nZ9PA)
