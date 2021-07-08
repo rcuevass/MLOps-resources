@@ -17,3 +17,5 @@
 - [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
 
 - [FEAST - Feature Store video demo](https://www.youtube.com/watch?v=ZeJdr0nZ9PA)
+
+- [Short GitLFS video](https://www.youtube.com/watch?v=S03EEusFxoI)
