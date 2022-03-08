@@ -1,7 +1,7 @@
 # MLOps-resources
 Repo to store interesting resources on MLOps
 
-## Books and whitepapers
+## Books and white papers
 
 - Introducing MLOps
 - Primer on data drift and drift collection
